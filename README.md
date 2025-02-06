@@ -24,3 +24,7 @@ Built with a robust backend and a clean, user-friendly interface, it is a practi
 Here are some screenshots showcasing the project interface:
 1. Home Page
    ![image alt](https://github.com/chathuraDeshan/Online_Grocery_Ordering_System/blob/ed3ccf2b91fb4b6a57013833cd09c7ec703fd48c/Untitled.png)
+2. Sope Page
+   ![image alt](https://github.com/chathuraDeshan/Online_Grocery_Ordering_System/blob/674e9811131880ea69eb59220f7ad2ecd34bb043/shop.PNG).
+2. Shoping Cart
+   ![image alt](https://github.com/chathuraDeshan/Online_Grocery_Ordering_System/blob/674e9811131880ea69eb59220f7ad2ecd34bb043/Shoping%20Cart.PNG).
